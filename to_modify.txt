@@ -1,13 +1,13 @@
 This is the file for which a conflict will be created between Paul and Alice.
 
 Currently, just a grocery list is present:
--Cabbages
--Lettuce
--Tomatoes
--Carrots
--Cucumbers
--Onions
--Garlic
+-Gorillas
+-Lions
+-Camels
+-Rabbits
+-Worms (small)
+-Wonions
+-Charliec
 
 From here on, Paul and Alice will disagree in some way. Maybe delete a part of the previous.
 
